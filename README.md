@@ -11,8 +11,6 @@ A Power BI report for a fashion retail & e-commerce company that connects Facebo
 | **Model** | Star schema · 2 facts + 4 dimensions · 42 measures |
 | **File** | [`Marketing_Performance.pbix`](Marketing_Performance.pbix) |
 
-> **Scope note.** The data model was built on a base file provided by the company's marketing team (4 tables, 11 core measures). I added the date dimension and built four measure layers on top — profitability (gross profit, POAS, break-even ROAS), channel split, customer, and action-classification — for 42 measures total, and designed and built all six report pages. The colour palette is reused from my previous Power BI project for portfolio consistency; the data model, DAX, layout and analysis are my own.
-
 ---
 
 ## Key takeaways
